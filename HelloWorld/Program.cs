@@ -16,6 +16,9 @@ namespace HelloWorld
 
             Console.WriteLine("t");
             Console.WriteLine("tetetete");
+
+
+            Console.ReadLine();
         }
     }
 }
